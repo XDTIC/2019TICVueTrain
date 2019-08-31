@@ -62,10 +62,10 @@ Documents you may need:
 
 - `title`:[https://www.w3school.com.cn/tags/att_standard_title.asp](https://www.w3school.com.cn/tags/att_standard_title.asp)
 - `v-if`:[https://cn.vuejs.org/v2/guide/conditional.html](https://cn.vuejs.org/v2/guide/conditional.html)
-- `v-else`:[https://cn.vuejs.org/v2/guide/list.html](https://cn.vuejs.org/v2/guide/list.html)
+- `v-for`:[https://cn.vuejs.org/v2/guide/list.html](https://cn.vuejs.org/v2/guide/list.html)
 - `vue-component`:[https://cn.vuejs.org/v2/guide/components-registration.html](https://cn.vuejs.org/v2/guide/components-registration.html)
 - `props`:[https://cn.vuejs.org/v2/guide/components-registration.html](https://cn.vuejs.org/v2/guide/components-registration.html)
-- [https://cn.vuejs.org/v2/guide/class-and-style.html](https://cn.vuejs.org/v2/guide/class-and-style.html)
+- `v-bind`:[https://cn.vuejs.org/v2/guide/class-and-style.html](https://cn.vuejs.org/v2/guide/class-and-style.html)
 - `computed`:[https://cn.vuejs.org/v2/guide/computed.html](https://cn.vuejs.org/v2/guide/computed.html)
 
 There is a demo here: [/login-trace/LoginTrace.vue](/login-trace/LoginTrace.vue)
