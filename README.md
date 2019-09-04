@@ -69,7 +69,7 @@ Documents you may need:
 - `v-if`:[https://cn.vuejs.org/v2/guide/conditional.html](https://cn.vuejs.org/v2/guide/conditional.html)
 - `v-for`:[https://cn.vuejs.org/v2/guide/list.html](https://cn.vuejs.org/v2/guide/list.html)
 - `vue-component`:[https://cn.vuejs.org/v2/guide/components-registration.html](https://cn.vuejs.org/v2/guide/components-registration.html)
-- `props`:[https://cn.vuejs.org/v2/guide/components-registration.html](https://cn.vuejs.org/v2/guide/components-registration.html)
+- `props`:[https://cn.vuejs.org/v2/guide/components-props.html](https://cn.vuejs.org/v2/guide/components-props.html)
 - `v-bind`:[https://cn.vuejs.org/v2/guide/class-and-style.html](https://cn.vuejs.org/v2/guide/class-and-style.html)
 - `computed`:[https://cn.vuejs.org/v2/guide/computed.html](https://cn.vuejs.org/v2/guide/computed.html)
 
@@ -87,8 +87,8 @@ There is a demo here: [/login-trace/LoginTrace.vue](/login-trace/LoginTrace.vue)
 
 All you need to install are:
 
-- `vuex`: Vue Router is the official router for Vue.js. @See [https://vuex.vuejs.org/zh](https://vuex.vuejs.org/zh/)
-- `vue-router`: Centralized State Management for Vue.js. @See [https://router.vuejs.org/zh](https://router.vuejs.org/zh/)
+- `vuex`: Centralized State Management for Vue.js. @See [https://vuex.vuejs.org/zh](https://vuex.vuejs.org/zh/)
+- `vue-router`: Vue Router is the official router for Vue.js. @See [https://router.vuejs.org/zh](https://router.vuejs.org/zh/)
 - (option)`iview`: A high quality UI Toolkit based on Vue.js. @See [https://www.iviewui.com](https://www.iviewui.com)
 
 ![](.github/vue-dependency.jpg)
