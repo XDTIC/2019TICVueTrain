@@ -34,12 +34,7 @@
       }
     },
     methods:{
-      clickA(){
-        this.a++;
-      },
-      clickB(){
-        this.b++;
-      }
+      
     }
   }
 </script>
